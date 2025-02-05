@@ -15,7 +15,7 @@ A REST API made with PHP Laravel that analyzes numbers and returns their mathema
 ## API Documentation
 
 ### Base URL
-`https://hng.fasttrack-express.com/api`
+`https://hng.fasttrack-express.com/api/classify-number?number={number}`
 
 ### Endpoint
 ```
@@ -45,7 +45,6 @@ composer install
 3. **Set up environment file**
 ```bash
 copy .env.example .env  # For Windows
-cp .env.example .env   # For Unix/Linux/Mac
 ```
 
 4. **Generate application key**
