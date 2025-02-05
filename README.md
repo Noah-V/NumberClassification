@@ -19,7 +19,7 @@ A REST API made with PHP Laravel that analyzes numbers and returns their mathema
 
 ### Endpoint
 ```
-GET /classify-number?number={number}
+GET /api/classify-number?number={number}
 ```
 
 ## Local Development Setup
