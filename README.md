@@ -22,13 +22,6 @@ A REST API made with PHP Laravel that analyzes numbers and returns their mathema
 GET /classify-number?number={number}
 ```
 
-
-### Properties Field Possible Values
-- `["armstrong", "odd"]` - if the number is both Armstrong and odd
-- `["armstrong", "even"]` - if the number is Armstrong and even
-- `["odd"]` - if the number is not Armstrong but is odd
-- `["even"]` - if the number is not Armstrong but is even
-
 ## Local Development Setup
 
 1. **Clone the repository**
