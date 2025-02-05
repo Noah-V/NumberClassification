@@ -67,4 +67,4 @@ GET http://localhost:8000/api/classify-number?number=371
 - API response time is optimized to be less than 500ms
 
 ## Author
-[Noah Vikoo]
+### Noah Vikoo
